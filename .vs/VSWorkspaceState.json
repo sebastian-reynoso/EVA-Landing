@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\img",
+    "\\css",
+    "\\js"
   ],
+  "SelectedNode": "\\assets\\img\\bg-signup.jpg",
   "PreviewInSolutionExplorer": false
 }
